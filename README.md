@@ -109,4 +109,5 @@ If you're doing the *Vue.js Essentials - 3 Course Bundle* course on Udemy, you'l
 ## test
 [link to test file](https://github.com/keitwirik/poster-shop/blob/keitwirik-patch-1/test.md)
 
+[another link to test file](https://github.com/keitwirik/poster-shop/blob/master/test.md)
 
